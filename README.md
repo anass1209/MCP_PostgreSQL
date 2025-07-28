@@ -1,3 +1,5 @@
+![Command Line Interface Example](./images/MCP.png)
+
 # Intelligent PostgreSQL MCP Client
 
 This project provides a powerful integration between a Model Context Protocol (MCP) server for PostgreSQL and Large Language Models (LLMs) using LangChain and Google Gemini. It enables natural language querying of PostgreSQL databases with intelligent SQL generation capabilities.
