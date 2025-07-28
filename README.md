@@ -1,4 +1,6 @@
-![Command Line Interface Example](./images/MCP.png)
+<div align="center">
+  <img src="./images/MCP.png" alt="Intelligent PostgreSQL MCP Client" width="100%" style="max-width: 1200px; height: auto; margin: 40px 0;">
+</div>
 
 # Intelligent PostgreSQL MCP Client
 
